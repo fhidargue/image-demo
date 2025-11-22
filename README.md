@@ -71,7 +71,7 @@ Fills the entire image with random colors on a per-pixel basis. Useful for testi
 
 **Example Output:**
 
-![Pixel Image](/Users/fhidalgo/Documents/BU/image-demo/ImageDemos/test0000.png)
+![Pixel Image](./ImageDemos/test0000.png)
 
 ---
 
@@ -82,7 +82,7 @@ Draws multiple lines (horizontal, vertical, diagonal) at random positions and in
 
 **Example Output:**
 
-![Line Image](/Users/fhidalgo/Documents/BU/image-demo/ImageDemos/lines_image.png)
+![Line Image](./ImageDemos/lines_image.png)
 
 ---
 
@@ -93,4 +93,4 @@ Draws multiple rectangles at random positions with random fill colors. Demonstra
 
 **Example Output:**
 
-![Rectangle Image](/Users/fhidalgo/Documents/BU/image-demo/ImageDemos/rectangles_image.png)
+![Rectangle Image](./ImageDemos/rectangles_image.png)
